@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Asterisk_Point\\x64\\Debug\\test_nfa.obj",
+            "outputs": [
+                "Asterisk_Point\\x64\\Debug\\test_nfa.cpp.obj.dt.module.json",
+                "Asterisk_Point\\x64\\Debug\\test_nfa.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
